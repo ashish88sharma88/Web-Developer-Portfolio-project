@@ -19,3 +19,18 @@ Font Awesome: For icons used throughout the website.
 Getting Started
 Prerequisites
 To run this website locally, you need a web browser (e.g., Chrome, Firefox) and optionally a code editor (e.g., VSCode, Sublime Text) to view and modify the code.
+
+Getting Started
+Prerequisites
+To run this website locally, you need a web browser (e.g., Chrome, Firefox) and optionally a code editor (e.g., VSCode, Sublime Text) to view and modify the code.
+
+Installation
+Clone the repository:
+git clone https://github.com/yourusername/portfolio.git
+
+
+Navigate to the project directory:
+cd portfolio
+Open index.html in your preferred web browser:
+
+You can simply double-click on the index.html file or right-click and choose "Open with" your web browser.
