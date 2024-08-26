@@ -26,7 +26,7 @@ To run this website locally, you need a web browser (e.g., Chrome, Firefox) and 
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/yourusername/Web-Developer-Portfolio-project.git
 
 
 Navigate to the project directory:
